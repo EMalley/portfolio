@@ -1,5 +1,5 @@
 function runTypingEffect() {
-  const text = '<> Eric Malley | Web Dev </>'
+  const text = 'Web Development'
   const typingElement = document.getElementById('typing-text')
   const typingDelay = 150 // delay between each typing in ms
 
